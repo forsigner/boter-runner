@@ -1,5 +1,5 @@
 {
-  "name": "runner",
+  "name": "boter-runner",
   "version": "0.1.0",
   "private": true,
   "description": "Boter Runner",
@@ -47,7 +47,7 @@
     "@types/hbs": "^4.0.1",
     "@types/ip": "^1.1.0",
     "cross-env": "^7.0.3",
-    "tsx": "^3.12.5",
+    "tsx": "^3.12.6",
     "typescript": "^5.0.2"
   }
 }
