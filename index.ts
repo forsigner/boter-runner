@@ -8,7 +8,7 @@ import cors from "cors";
 
 import { initKVController } from "./kv.controller";
 
-const PORT = 7001;
+const PORT = process.env.PORT || 3333;
 
 async function main() {
   const app = express();
