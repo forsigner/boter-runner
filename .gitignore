@@ -37,3 +37,7 @@ build
 runners/
 tsconfig.tsbuildinfo
 go/
+
+index.js
+kv.controller.js
+runner.js
